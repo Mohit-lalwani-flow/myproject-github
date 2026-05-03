@@ -1,0 +1,9 @@
+git init - initializes a git repository
+git add . - adds all files to staging
+git commit -m "msg" - saves changes
+git branch feature - creates branch
+git checkout feature - switch branch
+git merge feature - merges branch
+git log - shows commit history
+git reset --soft HEAD~1 - undo last commit
+git push - upload to GitHub
